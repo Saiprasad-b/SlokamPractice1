@@ -1,3 +1,3 @@
 Public class Test{
-public class {}
+public static void main(String [] args) {}
 }
