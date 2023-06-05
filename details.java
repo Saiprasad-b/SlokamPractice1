@@ -1,2 +1,3 @@
 Public class Test{
-puvlic class {}}
+public class {}
+}
